@@ -16,3 +16,4 @@ known_face_names = ["Madhav", "Richa", "Pallavi", "Barack Obama", "Joe Biden"]
 
 "
 If you don't have an attendance file it will create an attendence.csv file.
+0 in video capture tells  to capture on default camera change according to your camera number
